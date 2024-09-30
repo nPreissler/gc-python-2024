@@ -5,6 +5,20 @@
 **Level Atual:** 1
 
 ---
+## Feedback exercícios
+
+- **Aula 01:**
+	- **Ex1:** Incorreto, deveria pedir input do usuário
+	- **Ex2:** Incorreto, deveria pedir input do usuário
+	- **Ex3:** Incorreto, deveria pedir input do usuário e não está printando maior e menor
+- **Aula 02:**
+	- **Ex4:** Ok
+	- **Ex5:** Ok
+	- **Ex6:** Ok
+	
+- Geral: Exercícios devem estar organizados nas pastas e um exercício por arquivo
+
+---
 ## Conquistas
 
 
